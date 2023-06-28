@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Einkaufen gehen",
+      "day": "Sonntag",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Arzttermin vereinbaren",
+      "day": "Dienstag",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Hausaufgaben erledigen",
+      "day": "Mittwoch",
+      "reminder": true
+    },
+    {
+      "id": 10,
+      "text": "Hausaufgaben erledigen",
+      "day": "Mittwoch",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Fitnessstudio besuchen",
+      "day": "Freitag",
+      "reminder": false
+    },
+    {
+      "id": 6,
+      "text": "Meeting mit Kunden",
+      "day": "Montag",
+      "reminder": true
+    },
+    {
+      "id": 7,
+      "text": "Autoreparatur vereinbaren",
+      "day": "Donnerstag",
+      "reminder": false
+    }
+  ]
+}
